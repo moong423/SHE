@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "gaugekit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/antonmartinsson/GaugeKit.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "bb6a9396b6752f49fe4a5cb7361f9c760e01a269"
+      }
+    }
+  ],
+  "version" : 2
+}
